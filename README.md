@@ -266,6 +266,7 @@ Understanding time complexity allows you to make informed decisions and optimize
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0678-valid-parenthesis-string) |
@@ -313,4 +314,8 @@ Understanding time complexity allows you to make informed decisions and optimize
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0812-rotate-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
