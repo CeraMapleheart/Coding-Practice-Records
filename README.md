@@ -199,6 +199,7 @@ Understanding time complexity allows you to make informed decisions and optimize
 | [0001-two-sum](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0169-majority-element) |
+| [0260-single-number-iii](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0260-single-number-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -233,4 +234,8 @@ Understanding time complexity allows you to make informed decisions and optimize
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/1916-find-center-of-star-graph) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0260-single-number-iii](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0260-single-number-iii) |
 <!---LeetCode Topics End-->
