@@ -197,11 +197,11 @@ Understanding time complexity allows you to make informed decisions and optimize
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0001-two-sum) |
-| [0026-remove-duplicates-from-sorted-array](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0075-sort-colors) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0136-single-number) |
@@ -255,8 +255,8 @@ Understanding time complexity allows you to make informed decisions and optimize
 ## Two Pointers
 |  |
 | ------- |
-| [0026-remove-duplicates-from-sorted-array](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0075-sort-colors) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0167-two-sum-ii-input-array-is-sorted) |
