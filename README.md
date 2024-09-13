@@ -206,6 +206,7 @@ Understanding time complexity allows you to make informed decisions and optimize
 | [0137-single-number-ii](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0260-single-number-iii) |
@@ -222,6 +223,7 @@ Understanding time complexity allows you to make informed decisions and optimize
 | [0001-two-sum](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0217-contains-duplicate) |
 | [0782-jewels-and-stones](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0782-jewels-and-stones) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -237,6 +239,7 @@ Understanding time complexity allows you to make informed decisions and optimize
 | [0056-merge-intervals](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0217-contains-duplicate) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
