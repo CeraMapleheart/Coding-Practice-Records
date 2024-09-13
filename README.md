@@ -220,6 +220,7 @@ Understanding time complexity allows you to make informed decisions and optimize
 | [0001-two-sum](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0169-majority-element) |
+| [0782-jewels-and-stones](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0782-jewels-and-stones) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -284,6 +285,7 @@ Understanding time complexity allows you to make informed decisions and optimize
 | [0125-valid-palindrome](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0678-valid-parenthesis-string) |
+| [0782-jewels-and-stones](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0812-rotate-string) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
