@@ -211,6 +211,7 @@ Understanding time complexity allows you to make informed decisions and optimize
 | [0238-product-of-array-except-self](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0260-single-number-iii) |
 | [0643-maximum-average-subarray-i](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0643-maximum-average-subarray-i) |
+| [0870-magic-squares-in-grid](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0870-magic-squares-in-grid) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -225,6 +226,7 @@ Understanding time complexity allows you to make informed decisions and optimize
 | [0169-majority-element](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0217-contains-duplicate) |
 | [0782-jewels-and-stones](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0782-jewels-and-stones) |
+| [0870-magic-squares-in-grid](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0870-magic-squares-in-grid) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -265,6 +267,7 @@ Understanding time complexity allows you to make informed decisions and optimize
 | [0013-roman-to-integer](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0048-rotate-image) |
 | [0273-integer-to-english-words](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0273-integer-to-english-words) |
+| [0870-magic-squares-in-grid](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0870-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/1013-fibonacci-number) |
 | [1806-count-of-matches-in-tournament](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/1806-count-of-matches-in-tournament) |
 ## Simulation
@@ -361,4 +364,5 @@ Understanding time complexity allows you to make informed decisions and optimize
 | ------- |
 | [0048-rotate-image](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0054-spiral-matrix) |
+| [0870-magic-squares-in-grid](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0870-magic-squares-in-grid) |
 <!---LeetCode Topics End-->
