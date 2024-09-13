@@ -272,6 +272,7 @@ Understanding time complexity allows you to make informed decisions and optimize
 | [0273-integer-to-english-words](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0273-integer-to-english-words) |
 | [1013-fibonacci-number](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/1013-fibonacci-number) |
 | [1806-count-of-matches-in-tournament](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/1806-count-of-matches-in-tournament) |
+| [3567-convert-date-to-binary](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/3567-convert-date-to-binary) |
 ## Simulation
 |  |
 | ------- |
@@ -310,6 +311,7 @@ Understanding time complexity allows you to make informed decisions and optimize
 | [2163-kth-distinct-string-in-an-array](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/2727-number-of-senior-citizens) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3567-convert-date-to-binary](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/3567-convert-date-to-binary) |
 ## Rolling Hash
 |  |
 | ------- |
