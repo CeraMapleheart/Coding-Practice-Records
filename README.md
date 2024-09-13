@@ -204,6 +204,7 @@ Understanding time complexity allows you to make informed decisions and optimize
 | [0169-majority-element](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0169-majority-element) |
 | [0260-single-number-iii](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0260-single-number-iii) |
 | [0643-maximum-average-subarray-i](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0643-maximum-average-subarray-i) |
+| [2350-find-closest-number-to-zero](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/2350-find-closest-number-to-zero) |
 ## Hash Table
 |  |
 | ------- |
