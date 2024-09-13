@@ -229,4 +229,8 @@ Understanding time complexity allows you to make informed decisions and optimize
 |  |
 | ------- |
 | [1806-count-of-matches-in-tournament](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/1806-count-of-matches-in-tournament) |
+## Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/1916-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
