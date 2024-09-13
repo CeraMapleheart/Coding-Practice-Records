@@ -226,6 +226,7 @@ Understanding time complexity allows you to make informed decisions and optimize
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0075-sort-colors) |
+| [0392-is-subsequence](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0392-is-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -253,6 +254,7 @@ Understanding time complexity allows you to make informed decisions and optimize
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0392-is-subsequence) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Rolling Hash
 |  |
@@ -262,4 +264,8 @@ Understanding time complexity allows you to make informed decisions and optimize
 |  |
 | ------- |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
