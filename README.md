@@ -198,6 +198,7 @@ Understanding time complexity allows you to make informed decisions and optimize
 | ------- |
 | [0001-two-sum](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0004-median-of-two-sorted-arrays) |
+| [0027-remove-element](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0056-merge-intervals) |
@@ -257,6 +258,7 @@ Understanding time complexity allows you to make informed decisions and optimize
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0088-merge-sorted-array) |
