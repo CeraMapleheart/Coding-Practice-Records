@@ -229,6 +229,7 @@ Understanding time complexity allows you to make informed decisions and optimize
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0009-palindrome-number) |
 | [1806-count-of-matches-in-tournament](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/1806-count-of-matches-in-tournament) |
 ## Simulation
 |  |
