@@ -231,6 +231,7 @@ Understanding time complexity allows you to make informed decisions and optimize
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0009-palindrome-number) |
+| [1013-fibonacci-number](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/1013-fibonacci-number) |
 | [1806-count-of-matches-in-tournament](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/1806-count-of-matches-in-tournament) |
 ## Simulation
 |  |
@@ -268,4 +269,13 @@ Understanding time complexity allows you to make informed decisions and optimize
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0392-is-subsequence) |
+| [1013-fibonacci-number](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
