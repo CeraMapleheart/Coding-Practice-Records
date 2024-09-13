@@ -209,6 +209,7 @@ Understanding time complexity allows you to make informed decisions and optimize
 | [0260-single-number-iii](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0260-single-number-iii) |
 | [0643-maximum-average-subarray-i](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0643-maximum-average-subarray-i) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2350-find-closest-number-to-zero](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/2350-find-closest-number-to-zero) |
@@ -233,6 +234,7 @@ Understanding time complexity allows you to make informed decisions and optimize
 | [0075-sort-colors](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0169-majority-element) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Counting
 |  |
 | ------- |
@@ -245,6 +247,7 @@ Understanding time complexity allows you to make informed decisions and optimize
 | [0125-valid-palindrome](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0392-is-subsequence) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1894-merge-strings-alternately](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/1894-merge-strings-alternately) |
 ## Math
 |  |
@@ -314,6 +317,7 @@ Understanding time complexity allows you to make informed decisions and optimize
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Stack
 |  |
 | ------- |
