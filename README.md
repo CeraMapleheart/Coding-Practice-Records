@@ -215,6 +215,7 @@ Understanding time complexity allows you to make informed decisions and optimize
 | [0238-product-of-array-except-self](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0260-single-number-iii) |
 | [0643-maximum-average-subarray-i](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0643-maximum-average-subarray-i) |
+| [0921-spiral-matrix-iii](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0921-spiral-matrix-iii) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -281,6 +282,7 @@ Understanding time complexity allows you to make informed decisions and optimize
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0054-spiral-matrix) |
+| [0921-spiral-matrix-iii](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0921-spiral-matrix-iii) |
 | [1806-count-of-matches-in-tournament](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/1806-count-of-matches-in-tournament) |
 ## Graph
 |  |
@@ -373,4 +375,5 @@ Understanding time complexity allows you to make informed decisions and optimize
 | ------- |
 | [0048-rotate-image](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0054-spiral-matrix) |
+| [0921-spiral-matrix-iii](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0921-spiral-matrix-iii) |
 <!---LeetCode Topics End-->
