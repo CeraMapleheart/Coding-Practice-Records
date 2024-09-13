@@ -197,6 +197,7 @@ Understanding time complexity allows you to make informed decisions and optimize
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0075-sort-colors) |
@@ -256,6 +257,7 @@ Understanding time complexity allows you to make informed decisions and optimize
 | ------- |
 | [0009-palindrome-number](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0048-rotate-image) |
 | [1013-fibonacci-number](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/1013-fibonacci-number) |
 | [1806-count-of-matches-in-tournament](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/1806-count-of-matches-in-tournament) |
 ## Simulation
@@ -346,5 +348,6 @@ Understanding time complexity allows you to make informed decisions and optimize
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
