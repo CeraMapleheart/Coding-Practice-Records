@@ -209,6 +209,7 @@ Understanding time complexity allows you to make informed decisions and optimize
 | [0260-single-number-iii](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0260-single-number-iii) |
 | [0643-maximum-average-subarray-i](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0643-maximum-average-subarray-i) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2350-find-closest-number-to-zero](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/2350-find-closest-number-to-zero) |
 | [2727-number-of-senior-citizens](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/2727-number-of-senior-citizens) |
@@ -220,6 +221,7 @@ Understanding time complexity allows you to make informed decisions and optimize
 | [0169-majority-element](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0169-majority-element) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -235,6 +237,7 @@ Understanding time complexity allows you to make informed decisions and optimize
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0169-majority-element) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -282,6 +285,7 @@ Understanding time complexity allows you to make informed decisions and optimize
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/1894-merge-strings-alternately) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/2727-number-of-senior-citizens) |
 ## Rolling Hash
 |  |
