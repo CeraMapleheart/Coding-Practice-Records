@@ -226,6 +226,7 @@ Understanding time complexity allows you to make informed decisions and optimize
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -238,11 +239,13 @@ Understanding time complexity allows you to make informed decisions and optimize
 | [0169-majority-element](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0169-majority-element) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0169-majority-element) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -296,6 +299,7 @@ Understanding time complexity allows you to make informed decisions and optimize
 | [1894-merge-strings-alternately](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/1894-merge-strings-alternately) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/2727-number-of-senior-citizens) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -333,6 +337,7 @@ Understanding time complexity allows you to make informed decisions and optimize
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0678-valid-parenthesis-string) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## String Matching
 |  |
 | ------- |
