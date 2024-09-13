@@ -261,6 +261,7 @@ Understanding time complexity allows you to make informed decisions and optimize
 | [0009-palindrome-number](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0048-rotate-image) |
+| [0273-integer-to-english-words](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0273-integer-to-english-words) |
 | [1013-fibonacci-number](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/1013-fibonacci-number) |
 | [1806-count-of-matches-in-tournament](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/1806-count-of-matches-in-tournament) |
 ## Simulation
@@ -290,6 +291,7 @@ Understanding time complexity allows you to make informed decisions and optimize
 | [0013-roman-to-integer](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0125-valid-palindrome) |
+| [0273-integer-to-english-words](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0273-integer-to-english-words) |
 | [0392-is-subsequence](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0678-valid-parenthesis-string) |
 | [0782-jewels-and-stones](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0782-jewels-and-stones) |
@@ -318,6 +320,7 @@ Understanding time complexity allows you to make informed decisions and optimize
 ## Recursion
 |  |
 | ------- |
+| [0273-integer-to-english-words](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0273-integer-to-english-words) |
 | [1013-fibonacci-number](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
