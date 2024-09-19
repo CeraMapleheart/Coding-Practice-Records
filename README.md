@@ -230,6 +230,7 @@ Understanding time complexity allows you to make informed decisions and optimize
 | [0013-roman-to-integer](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0217-contains-duplicate) |
+| [0567-permutation-in-string](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0782-jewels-and-stones) |
 | [0870-magic-squares-in-grid](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0870-magic-squares-in-grid) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -268,6 +269,7 @@ Understanding time complexity allows you to make informed decisions and optimize
 | [0125-valid-palindrome](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0567-permutation-in-string) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1894-merge-strings-alternately](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/1894-merge-strings-alternately) |
 ## Math
@@ -301,6 +303,7 @@ Understanding time complexity allows you to make informed decisions and optimize
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0643-maximum-average-subarray-i) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## String
@@ -311,6 +314,7 @@ Understanding time complexity allows you to make informed decisions and optimize
 | [0125-valid-palindrome](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0125-valid-palindrome) |
 | [0273-integer-to-english-words](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0273-integer-to-english-words) |
 | [0392-is-subsequence](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0678-valid-parenthesis-string) |
 | [0782-jewels-and-stones](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0812-rotate-string) |
