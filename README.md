@@ -227,6 +227,7 @@ Understanding time complexity allows you to make informed decisions and optimize
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0217-contains-duplicate) |
@@ -303,12 +304,14 @@ Understanding time complexity allows you to make informed decisions and optimize
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0643-maximum-average-subarray-i) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0125-valid-palindrome) |
