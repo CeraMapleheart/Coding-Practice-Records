@@ -231,6 +231,7 @@ Understanding time complexity allows you to make informed decisions and optimize
 | [0013-roman-to-integer](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0217-contains-duplicate) |
+| [0424-longest-repeating-character-replacement](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0782-jewels-and-stones) |
 | [0870-magic-squares-in-grid](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0870-magic-squares-in-grid) |
@@ -305,6 +306,7 @@ Understanding time complexity allows you to make informed decisions and optimize
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0643-maximum-average-subarray-i) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -317,6 +319,7 @@ Understanding time complexity allows you to make informed decisions and optimize
 | [0125-valid-palindrome](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0125-valid-palindrome) |
 | [0273-integer-to-english-words](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0273-integer-to-english-words) |
 | [0392-is-subsequence](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0392-is-subsequence) |
+| [0424-longest-repeating-character-replacement](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0678-valid-parenthesis-string) |
 | [0782-jewels-and-stones](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0782-jewels-and-stones) |
