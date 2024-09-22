@@ -1,7 +1,7 @@
 class Solution:
     def minSubArrayLen(self, target: int, nums: List[int]) -> int:
-        #if target in nums:
-        #    return 1
+        if target in nums:
+            return 1
         l = 0
         min_len = float('inf')
         shortest = 0
