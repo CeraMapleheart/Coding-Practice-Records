@@ -210,6 +210,7 @@ Understanding time complexity allows you to make informed decisions and optimize
 | [0137-single-number-ii](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0238-product-of-array-except-self) |
@@ -306,6 +307,7 @@ Understanding time complexity allows you to make informed decisions and optimize
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0643-maximum-average-subarray-i) |
@@ -360,6 +362,7 @@ Understanding time complexity allows you to make informed decisions and optimize
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0209-minimum-size-subarray-sum) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Stack
 |  |
@@ -382,6 +385,7 @@ Understanding time complexity allows you to make informed decisions and optimize
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/CeraMapleheart/Coding-Practice-Records/tree/master/0238-product-of-array-except-self) |
 ## Matrix
 |  |
